@@ -5,3 +5,4 @@ Multi-view learning (MVL) is a special type of machine learning that utilizes mo
 
 
 ### C#, weka project
+Datasets are in .arff type. 
